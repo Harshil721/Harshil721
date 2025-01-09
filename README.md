@@ -45,6 +45,6 @@ A passionate Full-Stack Developer based in Long Beach, CA, constantly driven to 
 
 ---
 
-Thanks for Stopping by!! 😊
+Thanks for visiting my profile! 😊
 
  
