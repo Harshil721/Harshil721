@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/600x200" alt="Banner" />
   
   # Hi 👋, I'm Harshil Shah !!
 </div>
