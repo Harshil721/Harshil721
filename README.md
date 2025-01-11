@@ -6,8 +6,8 @@
 ---
 
 ### About Me
-Hey, My Name is Harshil Shah.  
-A passionate Full-Stack Developer based in Long Beach, CA, constantly driven to improve my skills and turning ideas into impactful solutions. I specialize in crafting seamless digital experiences through dynamic websites and applications. Let's connect and create something amazing together!
+  
+I'm a passionate Full-Stack Developer based in Long Beach, CA, constantly driven to improve my skills and turning ideas into impactful solutions. I specialize in crafting seamless digital experiences through dynamic websites and applications. Let's connect and create something amazing together!
 
 ### My Tech Stack
 
