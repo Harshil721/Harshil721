@@ -7,7 +7,7 @@
 
 ### <div align="center">About Me </div>
   
-I'm a passionate Full-Stack Developer based in Los Angeles, California, constantly driven to improve my skills and turning ideas into impactful solutions. I specialize in crafting seamless digital experiences through dynamic websites and applications. Let's connect and create something amazing together!
+I'm a passionate Full-Stack Developer based in Long Beach, California, constantly driven to improve my skills and turning ideas into impactful solutions. I specialize in crafting seamless digital experiences through dynamic websites and applications. Let's connect and create something amazing together!
 
 ### <div align="center">My Tech Stack</div>
 
